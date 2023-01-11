@@ -5,8 +5,8 @@ To run this app
 
 1 -> git clone https://github.com/santhoshnov/Pollsapp
 
-2-> cd project1
+2 -> cd project1
 
-3-> python manage.py runserver
+3 -> python manage.py runserver
 
-4-> https://localhost:8000/polls/
+4 -> https://localhost:8000/polls/
